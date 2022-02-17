@@ -1,0 +1,14 @@
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\bin\Debug\netcoreapp3.1\hw1.exe
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\bin\Debug\netcoreapp3.1\hw1.deps.json
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.json
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\bin\Debug\netcoreapp3.1\hw1.runtimeconfig.dev.json
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\bin\Debug\netcoreapp3.1\hw1.dll
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\bin\Debug\netcoreapp3.1\hw1.pdb
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.csproj.AssemblyReference.cache
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.AssemblyInfo.cs
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.dll
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.pdb
+C:\Users\Toshiba\OneDrive\Desktop\MobileDevAssignment\hw1\hw1\obj\Debug\netcoreapp3.1\hw1.genruntimeconfig.cache

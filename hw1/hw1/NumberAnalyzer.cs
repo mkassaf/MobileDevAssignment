@@ -1,0 +1,3 @@
+﻿using System;namespace hw1{    public class NumberAnalayzer    {        public void GetLargest()
+        {            System.Console.WriteLine("insert how many numbers:");            int count = Convert.ToInt32(Console.ReadLine());            int largest = 0;            int number;            System.Console.WriteLine("insert the numbers:");            for (int i = 0; i < count; i++)            {                number = Convert.ToInt32(Console.ReadLine());                if (number > largest)
+                {                    largest = number;                }            }            System.Console.WriteLine("largest number: " + largest);        }    }}
